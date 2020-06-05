@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<declare-styleable name="PWWheelView">
+    <attr name="pw_wv_loop" format="boolean" />
+    <attr name="pw_wv_text_size" format="dimension" />
+    <attr name="pw_wv_line_space" format="dimension" />
+    <attr name="pw_wv_divider_color" format="color" />
+    <attr name="pw_wv_outer_text_color" format="color" />
+    <attr name="pw_wv_center_text_color" format="color" />
+    <attr name="pw_wv_items_visible_count" format="integer" />
+</declare-styleable>
+</resources>
