@@ -1,4 +1,4 @@
-package cn.qd.peiwen.pwwheelview;
+package cn.qd.peiwen.wheelview;
 
 import android.view.MotionEvent;
 

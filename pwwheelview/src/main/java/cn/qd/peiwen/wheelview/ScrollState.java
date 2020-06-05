@@ -1,4 +1,4 @@
-package cn.qd.peiwen.pwwheelview;
+package cn.qd.peiwen.wheelview;
 
 public enum ScrollState {
     SCROLL_STATE_IDLE,    // 停止滚动

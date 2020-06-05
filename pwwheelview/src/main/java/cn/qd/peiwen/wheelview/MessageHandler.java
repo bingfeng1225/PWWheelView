@@ -2,7 +2,7 @@
 // Jad home page: http://www.geocities.com/kpdus/jad.html
 // Decompiler options: braces fieldsfirst space lnc 
 
-package cn.qd.peiwen.pwwheelview;
+package cn.qd.peiwen.wheelview;
 
 import android.os.Handler;
 import android.os.Message;

@@ -1,4 +1,4 @@
-package cn.qd.peiwen.pwwheelview;
+package cn.qd.peiwen.wheelview;
 
 final class OnItemSelectedRunnable implements Runnable {
     final WheelView wheelView;

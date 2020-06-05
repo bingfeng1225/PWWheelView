@@ -1,4 +1,4 @@
-package cn.qd.peiwen.pwwheelview;
+package cn.qd.peiwen.wheelview;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -20,8 +20,6 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.ScheduledFuture;
 import java.util.concurrent.TimeUnit;
-
-import cn.qd.peiwen.wheelview.R;
 
 /**
  * Created by Weidongjian on 2015/8/18.
